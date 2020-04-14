@@ -17,4 +17,4 @@ In other to get the code to build with MinGW, you have to apply the following fi
 
 In case you just use the DLLs provided by sgldllkit, you could create the import library for MinGW using the .def file and MinGW's dlltool.
 
-This binding was created by fbfrog.
+This binding was created with the help of fbfrog.
